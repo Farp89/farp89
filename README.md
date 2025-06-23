@@ -12,12 +12,12 @@
 
 ## Contato
 
-- [Seu LinkedIn aqui]
-- [Seu portfólio/site pessoal aqui]
+- Email: farp89@hotmail.com
 
 ## Tecnologias & Ferramentas
 
-- Em atualização...
+- JavaScript
+- (E outras tecnologias em aprendizado e uso)
 
 ---
 
