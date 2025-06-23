@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Fernando Aguiar Ramos Pinto!
 
-<!--
-**Farp89/farp89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+🎮 Apaixonado por programação de jogos e desenvolvimento de games  
+🚀 Buscando oportunidades para criar e colaborar em projetos de jogos
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Estou sempre aprendendo e buscando novos desafios no mundo da programação
+- 🎯 Meu objetivo é criar jogos incríveis e inovadores
+- 👾 Interesso-me por engines de jogos, gráficos e inteligência artificial para games
+
+## Contato
+
+- [Seu LinkedIn aqui]
+- [Seu portfólio/site pessoal aqui]
+
+## Tecnologias & Ferramentas
+
+- Em atualização...
+
+---
+
+<div align="center">
+  Obrigado por visitar meu perfil! ✨
+</div>
